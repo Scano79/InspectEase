@@ -1,2 +1,1 @@
-# InspectEase
-Texas Home Inspections
+
